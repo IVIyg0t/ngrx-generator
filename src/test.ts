@@ -1,0 +1,1 @@
+export const AN_ACTION = '[ACTION] This is an action';
