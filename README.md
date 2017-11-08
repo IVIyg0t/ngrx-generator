@@ -1,5 +1,7 @@
 # ngrx-action-generator README
 
+This Project will serve as a VSCOde Plugin to generate NGRX code.
+
 This is the README for your extension "ngrx-action-generator". After writing up a brief description, we recommend including the following sections.
 
 ## Features
